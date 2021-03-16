@@ -1,4 +1,7 @@
-# web-design-tribute-page
-Practice on Web design: a tribute page
+# responsive-web-design
+Practice on Responsive Web Design
 
-This project is only intented to practice on web design. You can check out that this simple web page is responsive (fonts, images, html structures).
+This project is only intented to practice on web design.
+
+1: [Tribute Page]
+You can check out that this simple web page is responsive (fonts, images, html structures).
